@@ -1,0 +1,34 @@
+{
+    "name": "starter-extension-pack",
+    "displayName": "starter-extension-pack",
+    "description": "My essential extensions, not languange related, that I use across all types of workspaces.",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "publisher": "e5pe",
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "dracula-theme.theme-dracula",
+        "PKief.material-icon-theme",
+        "christian-kohler.path-intellisense",
+        "CoenraadS.bracket-pair-colorizer-2",
+        "DavidAnson.vscode-markdownlint",
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode",
+        "firefox-devtools.vscode-firefox-debug",
+        "msjsdiag.debugger-for-chrome",
+        "ms-vsliveshare.vsliveshare",
+        "Shan.code-settings-sync",
+        "shardulm94.trailing-spaces",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "bierner.markdown-emoji",
+        "yzhang.markdown-all-in-one"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/e5pe/starter-extension-pack"
+    }
+}
