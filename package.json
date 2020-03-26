@@ -2,7 +2,7 @@
     "name": "starter-extension-pack",
     "displayName": "starter-extension-pack",
     "description": "My essential extensions, not languange related, that I use across all types of workspaces.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.43.0"
     },
