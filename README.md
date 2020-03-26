@@ -9,10 +9,6 @@ author: Esperanza Cutillas Rastoll
 
 This starter extension pack includes the extensions I used for every workspace, no matter what language I am using.
 
-## Prerequisites
-
-You need to install [Pandoc][pandocurl] - a universal document converter - because [vscode-pandoc](#vscode-pandoc) uses it.
-
 ## Extensions included
 
 - [theme-dracula][theme-dracula-link]
@@ -31,7 +27,6 @@ You need to install [Pandoc][pandocurl] - a universal document converter - becau
 - [markdown-emoji][markdown-emoji-link]
 - [markdown-pdf][markdown-pdf-link]
 - [markdown-all-in-on][markdown-all-in-on-link]
-- [vscode-pandoc][vscode-pandoc-link]
 
 ## Extensions' description
 
