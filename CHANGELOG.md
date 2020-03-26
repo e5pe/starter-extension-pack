@@ -13,3 +13,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Extensions section with links and badges added.
 - Added badge about LICENSE on repository.
 - Removed Removed from README.md _vscode-pandoc_ extension, not included.
+- Added logo and header.
