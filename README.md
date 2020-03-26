@@ -1,8 +1,3 @@
----
-title: README starter-extension-pack
-author: Esperanza Cutillas Rastoll
----
-
 ![Banner](./header_photo_1.png)
 
 # starter-extension-pack
