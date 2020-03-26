@@ -10,6 +10,10 @@
     "categories": [
         "Extension Packs"
     ],
+    "icon": "logo.png",
+    "keywords": [
+        "StarterPack"
+    ],
     "extensionPack": [
         "dracula-theme.theme-dracula",
         "PKief.material-icon-theme",
